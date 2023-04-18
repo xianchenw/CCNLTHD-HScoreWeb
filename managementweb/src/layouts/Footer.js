@@ -7,19 +7,19 @@ const Footer = () =>{
             <Container className='text-center footer-container'>
                 <div>
                     <section>
-                        <Button outline floating className='m-1 btn-secondary' href='#!' role='button'>
+                        <Button floating className='btn-secondary icon-link' href='#!' role='button'>
                             <BsFacebook/>
                         </Button>
 
-                        <Button outline floating className='m-1 btn-secondary' href='#!' role='button'>
+                        <Button floating className='btn-secondary icon-link' href='#!' role='button'>
                             <BsInstagram/>
                         </Button>
 
-                        <Button outline floating className='m-1 btn-secondary' href='#!' role='button'>
+                        <Button floating className='btn-secondary icon-link' href='#!' role='button'>
                             <BsLinkedin/>
                         </Button>
 
-                        <Button outline floating className='m-1 btn-secondary' href='#!' role='button'>
+                        <Button floating className='btn-secondary icon-link' href='#!' role='button'>
                             <BsGithub/>
                         </Button>
                     </section>

@@ -3,16 +3,15 @@ import './App.css';
 import {BrowserRouter} from 'react-router-dom';
 import Header from './layouts/Header';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Subjects from './components/Subjects';
 import Footer from './layouts/Footer';
+import SubjectArea from './components/Subject';
 
 function App() {
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter >
         <Header/>
-        <Subjects/>
-        <Footer/>
+        <SubjectArea/>
       </BrowserRouter>
     </>
   );
