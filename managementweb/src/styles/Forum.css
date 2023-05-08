@@ -1,0 +1,15 @@
+.title-link {
+    text-decoration: none;
+    color: #000;
+}
+
+.forum-content {
+    padding: 10px;
+}
+
+.scrollbar {
+    max-height: 300px;
+    width: 100%;
+    overflow-y: auto;
+    margin-bottom: 10px;
+}

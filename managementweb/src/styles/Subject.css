@@ -9,9 +9,10 @@
 
 .subject-container {
     border-radius: 0.5rem;
-    background-color: #FFB344;
+    background-color: #ffe7c5;
     padding: 5px;
     width: 100%;
+    margin-bottom: 10px;
 }
 
 .subject-btn{
